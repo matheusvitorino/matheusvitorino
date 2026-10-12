@@ -1,6 +1,5 @@
 ## Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> eu sou o Matheus
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
 [![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
 
 <h2>sobre mim</h2>
@@ -42,6 +41,4 @@
 
 <br clear="right"/>
 
-<p align="center">
-  <img width="700" alt="Dino pulando" src="./dino.gif" />
-</p>
+<img width="300" alt="Dino pulando" src="./dino.gif" />
